@@ -112,15 +112,6 @@ For the optimal family experience, mount a touchscreen display in your kitchen o
    - Navigate to your Famplan installation
    - The interface automatically adapts for touch interaction
 
-3. **Kiosk Mode Commands**
-   ```bash
-   # Chrome kiosk mode
-   google-chrome --kiosk --disable-infobars http://your-famplan-url
-   
-   # Firefox kiosk mode
-   firefox --kiosk http://your-famplan-url
-   ```
-
 ## 🛠️ Tech Stack
 
 - **Backend**: Laravel 12 (PHP)
