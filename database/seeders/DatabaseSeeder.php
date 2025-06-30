@@ -24,6 +24,7 @@ class DatabaseSeeder extends Seeder
         $this->call([
             FamilySeeder::class,
             ChoreSeeder::class,
+            FamplanTestDataSeeder::class, // Comprehensive test data
         ]);
     }
 }
